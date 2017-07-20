@@ -1,6 +1,9 @@
 # hello-world
 just another repository 
 
-hi humans!
+hi,Humans!
 
-i need some help ,want a alexnet code 
+Hubot here ,I like Node.js and Coffeescript(that is what i made of)，
+I have had tacos on the moon and find them for superior to Earth tacos.
+
+
